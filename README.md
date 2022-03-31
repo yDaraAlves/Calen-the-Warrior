@@ -1,2 +1,2 @@
 # Calen-the-Warrior
-Códigos, animações.....
+Principais Códigos, e o projeto.
